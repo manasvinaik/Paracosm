@@ -86,36 +86,14 @@ npm run dev
 
 And you're ready to go! ♡
 
-## 🛤️ what's next?
-
-Paracosm is an ongoing project, and there's plenty of room for it to grow.
-
-Some things on the horizon:
-
-- [ ] External media metadata integrations
-- [ ] More detailed reading and watching progress tracking
-- [ ] Expanded statistics and visual insights
-- [ ] Improved media discovery and search
-- [ ] Additional collection customisation
-- [ ] A smoother experience across devices
-
 ## 💌 a little note
 
 Paracosm was created out of a love for stories, media, and keeping track of the little things that make life interesting.
 
-It's a space for the things you loved, the things you're loving, and everything you haven't discovered yet.
-
-Because every story deserves a place in your universe.
-
-<p align="center">
-  <br/>
-  <b>✧ welcome to your paracosm. ✧</b>
-  <br/>
-  <i>made with ♡ and a little bit of pixel magic.</i>
-</p>
+It's a space for the things you loved, the things you're loving, and everything you haven't discovered yet. You are a museum of the things you've loved, afterall.
 
 ---
 
 <p align="center">
-  <sub>PARACOSM © 2026 · a little universe of your own</sub>
+  <sub>made with ♡ by MANASVI NAIK © 2026</sub>
 </p>
