@@ -38,7 +38,7 @@ Think of it as a digital scrapbook meets a media tracker, with a little bit of n
 
 ## 🧸 the aesthetic
 
-Paracosm follows a **Pixel Dream** visual direction — a little retro, a little whimsical, and very much inspired by the charm of old-school digital spaces.
+Paracosm follows a **Pixel Dream** visual direction — a little retro, a little whimsical, and very much inspired by the charm of pastel retro digital spaces.
 
 The visual language is built around:
 
@@ -49,33 +49,6 @@ The visual language is built around:
 - ✧ Pixel-inspired details and nostalgic UI elements
 
 The goal is to make organising your media feel less like managing a spreadsheet and more like decorating your own little digital world.
-
-## 🪄 media categories
-
-Your archive isn't limited to one kind of media.
-
-- 📖 Books
-- 🎬 Movies
-- 📺 TV Shows
-- 💌 Fanfictions
-- 🌙 Anime
-- 🍥 Manga & Manhwa
-- ✨ Webnovels
-- 📰 Articles
-- 🎲 Board Games
-- 🌷 Other
-
-More categories and metadata integrations can grow alongside the project.
-
-## ⚙️ built with
-
-| Technology | Purpose |
-|:--|:--|
-| React | Frontend UI |
-| Vite | Development and build tooling |
-| JavaScript | Application logic |
-| Supabase | Authentication and database |
-| CSS | Styling and responsive design |
 
 ## 🌱 running locally
 
