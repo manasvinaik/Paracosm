@@ -12,17 +12,13 @@
   <i>A personal media archive for everything you read, watch, play, and love.</i>
 </p>
 
----
-
 ## 🌷 what is paracosm?
 
 **Paracosm** is a personal media library designed to give all your favourite things a home.
 
 Books you've read, movies that stayed with you, shows you're currently bingeing, fanfictions you can't stop thinking about, games you've played, and stories you haven't quite finished yet — Paracosm brings them all together in one cozy, organised space.
 
-It's more than just a tracker. It's your own little corner of the internet to document your interests, collect your favourites, keep personal notes, and look back at everything you've experienced.
-
-Think of it as a digital scrapbook meets a media tracker, with a little bit of nostalgia sprinkled in. ✧
+It's your own little corner of the internet to document your interests, collect your favourites, keep personal notes, and look back at everything you've experienced.
 
 ## 🍓 what can you do here?
 
