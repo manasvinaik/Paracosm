@@ -3,16 +3,14 @@
 </p>
 
 <h1 align="center">✿ Paracosm ✿</h1>
-<h3>All your worlds. One little place</h3>
+<h3 align="center">All your worlds. One little place</h3>
 
 <p align="center">
   A personal media archive to collect, organize, track, and revisit everything you love.
 </p>
 
 <p align="center">
-  <a href="https://github.com/manasvinaik/Paracosm">GitHub Repository</a>
-  ·
-  <a href="YOUR_LIVE_DEMO_URL">Live Demo</a>
+  <a href="[PARACOSM](https://paracosmn.netlify.app/)">Live Demo</a>
 </p>
 
 <p align="center">
