@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # ==============================
 # Dependencies
@@ -120,3 +121,11 @@ npm-cache/
 # Miscellaneous
 # ==============================
 *.tsbuildinfo
+=======
+node_modules
+dist
+.env
+.env.local
+.env.*.local
+.DS_Store
+>>>>>>> 5d050b94f5e6a0cde40183f9a3973b17b4bc73e2

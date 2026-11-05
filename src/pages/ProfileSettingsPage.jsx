@@ -78,7 +78,11 @@ export default function ProfileSettingsPage() {
           <label className="field">DISPLAY NAME<input value={profile.display_name} onChange={e => change("display_name", e.target.value)} placeholder="How should we address you?" maxLength={60} /></label>
           <label className="field">USERNAME<input value={profile.username} onChange={e => change("username", e.target.value)} placeholder="your-username" maxLength={24} /></label>
           <label className="field full">BIO<textarea rows="4" value={profile.bio} onChange={e => change("bio", e.target.value)} placeholder="A reader, watcher, collector of little worlds..." maxLength={300} /></label>
+<<<<<<< HEAD
           <label className="field full">AVATAR IMAGE URL <input type="url" value={profile.avatar_url} onChange={e => change("avatar_url", e.target.value)} placeholder="https://example.com/avatar.webp" /><small className="field-hint">Use a direct public JPG, PNG, GIF or WebP image URL. Animated GIF avatars are supported. Leave blank to use your initial.</small></label>
+=======
+          <label className="field full">AVATAR IMAGE URL <input type="url" value={profile.avatar_url} onChange={e => change("avatar_url", e.target.value)} placeholder="https://example.com/avatar.png" /><small className="field-hint">Use a direct public image link ending in .jpg, .jpeg or .png. Leave blank to use your initial.</small></label>
+>>>>>>> 5d050b94f5e6a0cde40183f9a3973b17b4bc73e2
         </div>
         {error && <p className="auth-error">{error}</p>}
         {success && <p className="inline-success">{success}</p>}

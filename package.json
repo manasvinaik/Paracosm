@@ -9,6 +9,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
     "@supabase/supabase-js": "^2.57.0",
     "lucide-react": "^0.468.0",
     "react": "^18.3.1",
@@ -19,5 +20,16 @@
     "@vitejs/plugin-react": "^4.3.4",
     "vite": "^6.0.5",
     "vite-plugin-pwa": "^2.0.0"
+=======
+    "lucide-react": "^0.468.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.28.0",
+    "@supabase/supabase-js": "^2.57.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "vite": "^6.0.5"
+>>>>>>> 5d050b94f5e6a0cde40183f9a3973b17b4bc73e2
   }
 }
