@@ -73,29 +73,29 @@ Think of it as your own little corner of the internet dedicated to everything yo
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/%235%20Dashboard-1.png" width="220" alt="Dashboard overview" />
+      <img src="Screenshots/Dashboard-1.png" width="220" alt="Dashboard overview" />
       <br/><sub>Dashboard</sub>
     </td>
     <td align="center">
-      <img src="screenshots/%236%20Dashboard-2.png" width="220" alt="Dashboard media overview" />
+      <img src="Screenshots/Dashboard-2.png" width="220" alt="Dashboard media overview" />
       <br/><sub>Media Overview</sub>
     </td>
     <td align="center">
-      <img src="screenshots/%237%20AllMediaPage.png" width="220" alt="All media page" />
+      <img src="Screenshots/AllMediaPage.png" width="220" alt="All media page" />
       <br/><sub>All Media</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="screenshots/%238%20AnimePage.png" width="220" alt="Anime collection" />
+      <img src="Screenshots/AnimePage.png" width="220" alt="Anime collection" />
       <br/><sub>Anime</sub>
     </td>
     <td align="center">
-      <img src="screenshots/%239%20MangaPage.png" width="220" alt="Manga collection" />
+      <img src="Screenshots/0MangaPage.png" width="220" alt="Manga collection" />
       <br/><sub>Manga</sub>
     </td>
     <td align="center">
-      <img src="screenshots/%2310%20ItemDetails.png" width="220" alt="Media item details" />
+      <img src="Screenshots/ItemDetails.png" width="220" alt="Media item details" />
       <br/><sub>Item Details</sub>
     </td>
   </tr>
@@ -103,18 +103,18 @@ Think of it as your own little corner of the internet dedicated to everything yo
 
 <p align="center"><strong>03 · Build your collection</strong></p>
 
-<table>
-  <tr>
+<table align="center">
+  <tr align="center">
     <td align="center">
-      <img src="screenshots/%2311%20AddMediaPage.png" width="220" alt="Add media page" />
+      <img src="Screenshots/AddMediaPage.png" width="220" alt="Add media page" />
       <br/><sub>Add Media</sub>
     </td>
     <td align="center">
-      <img src="screenshots/%2312%20ImportedDetails.png" width="220" alt="Imported media details" />
+      <img src="Screenshots/ImportedDetails.png" width="220" alt="Imported media details" />
       <br/><sub>Imported Details</sub>
     </td>
     <td align="center">
-      <img src="screenshots/%2313%20CollectionsPage.png" width="220" alt="Collections and shelves" />
+      <img src="Screenshots/CollectionsPage.png" width="220" alt="Collections and shelves" />
       <br/><sub>Collections & Shelves</sub>
     </td>
   </tr>
@@ -125,21 +125,21 @@ Think of it as your own little corner of the internet dedicated to everything yo
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/%2314%20ProgressTracker.png" width="220" alt="Progress tracker" />
+      <img src="Screenshots/ProgressTracker.png" width="220" alt="Progress tracker" />
       <br/><sub>Progress Tracker</sub>
     </td>
     <td align="center">
-      <img src="screenshots/%2315%20StatisticsPage.png" width="220" alt="Statistics dashboard" />
+      <img src="Screenshots/StatisticsPage.png" width="220" alt="Statistics dashboard" />
       <br/><sub>Statistics</sub>
     </td>
     <td align="center">
-      <img src="screenshots/%2316%20ActivityPage.png" width="220" alt="Activity timeline" />
+      <img src="Screenshots/ActivityPage.png" width="220" alt="Activity timeline" />
       <br/><sub>Activity Timeline</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="screenshots/%2317%20SettingsPage.png" width="220" alt="Settings page" />
+      <img src="Screenshots/SettingsPage.png" width="220" alt="Settings page" />
       <br/><sub>Settings</sub>
     </td>
   </tr>
