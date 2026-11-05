@@ -55,12 +55,12 @@ Think of it as your own little corner of the internet dedicated to everything yo
       <img src="Screenshots/Landing-2.png" width="500" alt="Landing page features" />
       <br/><sub>Explore Paracosm</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <img src="Screenshots/SignUp.png" width="500" alt="Sign up page" />
       <br/><sub>Sign Up</sub>
     </td>
-  </tr>
-  <tr>
     <td align="center">
       <img src="Screenshots/Login.png" width="500" alt="Login page" />
       <br/><sub>Login</sub>
