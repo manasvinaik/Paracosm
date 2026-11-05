@@ -1,10 +1,9 @@
-# ✿ Paracosm
-
 <p align="center">
   <img src="public/icons/icon-512.png" width="100" alt="Paracosm app icon" />
 </p>
 
-<h3 align="center">All your worlds. One little place.</h3>
+<h1 align="center">✿ Paracosm ✿</h1>
+<h3>All your worlds. One little place</h3>
 
 <p align="center">
   A personal media archive to collect, organize, track, and revisit everything you love.
