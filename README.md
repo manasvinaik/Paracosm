@@ -41,12 +41,13 @@ Think of it as your own little corner of the internet dedicated to everything yo
 - **Activity Timeline** — Revisit your media journey.
 - **Progressive Web App** — Install Paracosm on supported devices.
 
+
 ## ⊹ Screenshots
 
 <p align="center"><strong>01 · First impressions</strong></p>
 
 <table align="center">
-  <tr align="center">
+  <tr>
     <td align="center">
       <img src="Screenshots/Landing-1.png" width="500" alt="Landing page" />
       <br/><sub>Landing Page</sub>
@@ -71,31 +72,33 @@ Think of it as your own little corner of the internet dedicated to everything yo
 <p align="center"><strong>02 · Your personal archive</strong></p>
 
 <table align="center">
-  <tr align="center">
+  <tr>
     <td align="center">
-      <img src="Screenshots/Dashboard-1.png" width="220" alt="Dashboard overview" />
+      <img src="Screenshots/Dashboard-1.png" width="500" alt="Dashboard overview" />
       <br/><sub>Dashboard</sub>
     </td>
     <td align="center">
-      <img src="Screenshots/Dashboard-2.png" width="220" alt="Dashboard media overview" />
+      <img src="Screenshots/Dashboard-2.png" width="500" alt="Dashboard media overview" />
       <br/><sub>Media Overview</sub>
-    </td>
-    <td align="center">
-      <img src="Screenshots/AllMediaPage.png" width="220" alt="All media page" />
-      <br/><sub>All Media</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="Screenshots/AnimePage.png" width="220" alt="Anime collection" />
-      <br/><sub>Anime</sub>
+      <img src="Screenshots/AllMediaPage.png" width="500" alt="All media page" />
+      <br/><sub>All Media</sub>
     </td>
     <td align="center">
-      <img src="Screenshots/MangaPage.png" width="220" alt="Manga collection" />
+      <img src="Screenshots/AnimePage.png" width="500" alt="Anime collection" />
+      <br/><sub>Anime</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="Screenshots/MangaPage.png" width="500" alt="Manga collection" />
       <br/><sub>Manga</sub>
     </td>
     <td align="center">
-      <img src="Screenshots/ItemDetails.png" width="220" alt="Media item details" />
+      <img src="Screenshots/ItemDetails.png" width="500" alt="Media item details" />
       <br/><sub>Item Details</sub>
     </td>
   </tr>
@@ -104,17 +107,19 @@ Think of it as your own little corner of the internet dedicated to everything yo
 <p align="center"><strong>03 · Build your collection</strong></p>
 
 <table align="center">
-  <tr align="center">
+  <tr>
     <td align="center">
-      <img src="Screenshots/AddMediaPage.png" width="220" alt="Add media page" />
+      <img src="Screenshots/AddMediaPage.png" width="500" alt="Add media page" />
       <br/><sub>Add Media</sub>
     </td>
     <td align="center">
-      <img src="Screenshots/ImportedDetails.png" width="220" alt="Imported media details" />
+      <img src="Screenshots/ImportedDetails.png" width="500" alt="Imported media details" />
       <br/><sub>Imported Details</sub>
     </td>
+  </tr>
+  <tr>
     <td align="center">
-      <img src="Screenshots/CollectionsPage.png" width="220" alt="Collections and shelves" />
+      <img src="Screenshots/CollectionsPage.png" width="500" alt="Collections and shelves" />
       <br/><sub>Collections & Shelves</sub>
     </td>
   </tr>
@@ -123,23 +128,23 @@ Think of it as your own little corner of the internet dedicated to everything yo
 <p align="center"><strong>04 · Your media journey</strong></p>
 
 <table align="center">
-  <tr align="center">
+  <tr>
     <td align="center">
-      <img src="Screenshots/ProgressTracker.png" width="220" alt="Progress tracker" />
+      <img src="Screenshots/ProgressTracker.png" width="500" alt="Progress tracker" />
       <br/><sub>Progress Tracker</sub>
     </td>
     <td align="center">
-      <img src="Screenshots/StatisticsPage.png" width="220" alt="Statistics dashboard" />
+      <img src="Screenshots/StatisticsPage.png" width="500" alt="Statistics dashboard" />
       <br/><sub>Statistics</sub>
-    </td>
-    <td align="center">
-      <img src="Screenshots/ActivityPage.png" width="220" alt="Activity timeline" />
-      <br/><sub>Activity Timeline</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="Screenshots/SettingsPage.png" width="220" alt="Settings page" />
+      <img src="Screenshots/ActivityPage.png" width="500" alt="Activity timeline" />
+      <br/><sub>Activity Timeline</sub>
+    </td>
+    <td align="center">
+      <img src="Screenshots/SettingsPage.png" width="500" alt="Settings page" />
       <br/><sub>Settings</sub>
     </td>
   </tr>
