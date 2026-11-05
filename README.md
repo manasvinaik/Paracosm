@@ -51,7 +51,7 @@ Think of it as your own little corner of the internet dedicated to everything yo
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/%#1%20Landing-1.png" width="220" alt="Landing page" />
+      <img src="screenshots/Landing-1.png" width="220" alt="Landing page" />
       <br/><sub>Landing Page</sub>
     </td>
     <td align="center">
