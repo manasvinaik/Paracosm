@@ -10,17 +10,11 @@
 </p>
 
 <p align="center">
-  <a href="[PARACOSM](https://paracosmn.netlify.app/)">Live Demo</a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
   <img src="https://img.shields.io/badge/PWA-ready-D9A5C5?style=flat-square" />
 </p>
-
----
 
 ## ♡ About
 
