@@ -1,0 +1,122 @@
+
+# ==============================
+# Dependencies
+# ==============================
+node_modules/
+.pnp/
+.pnp.js
+
+# ==============================
+# Build output
+# ==============================
+dist/
+dist-ssr/
+build/
+out/
+*.local
+
+# ==============================
+# Environment variables / secrets
+# ==============================
+.env
+.env.*
+!.env.example
+!.env.sample
+
+# Private keys and certificates
+*.pem
+*.key
+*.crt
+*.cer
+*.p12
+*.pfx
+
+# ==============================
+# Logs
+# ==============================
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# ==============================
+# Testing / coverage
+# ==============================
+coverage/
+.nyc_output/
+playwright-report/
+test-results/
+*.lcov
+
+# ==============================
+# Vite
+# ==============================
+.vite/
+vite.svg
+
+# ==============================
+# Netlify
+# ==============================
+.netlify/
+
+# ==============================
+# Supabase local development
+# ==============================
+supabase/.temp/
+supabase/.branches/
+supabase/.env
+
+# ==============================
+# Operating system files
+# ==============================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# ==============================
+# Editors / IDEs
+# ==============================
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# ==============================
+# Temporary files
+# ==============================
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+*.rej
+*.cache
+.cache/
+.temp/
+.tmp/
+
+# ==============================
+# Debugging
+# ==============================
+npm-cache/
+.eslintcache
+.stylelintcache
+
+# ==============================
+# Miscellaneous
+# ==============================
+*.tsbuildinfo

@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/api/comick-source/*"
+  to = "/.netlify/functions/comick-source-api/:splat"
+  status = 200
+  force = true
