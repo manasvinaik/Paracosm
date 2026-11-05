@@ -8,11 +8,7 @@ import { useLibrary } from "../context/LibraryContext";
 export default function CategoryPage({ title, eyebrow, description, category, symbol, accent }) {
   const [query,setQuery]=useState(""); const [status,setStatus]=useState("All statuses");
   const {items}=useLibrary();
-<<<<<<< HEAD
   const filtered=useMemo(()=>items.filter(item=>(item.category===category || (category==="Manga & Manhwa" && ["Manga","Manhwa"].includes(item.category)))&&`${item.title} ${item.creator||""}`.toLowerCase().includes(query.toLowerCase())&&(status==="All statuses"||item.status===status)),[items,query,status,category]);
-=======
-  const filtered=useMemo(()=>items.filter(item=>item.category===category&&`${item.title} ${item.creator||""}`.toLowerCase().includes(query.toLowerCase())&&(status==="All statuses"||item.status===status)),[items,query,status,category]);
->>>>>>> 5d050b94f5e6a0cde40183f9a3973b17b4bc73e2
   return <AppLayout>
     <div className={`category-banner ${accent}`}><div><p className="eyebrow">{eyebrow}</p><h1>{title}</h1><p>{description}</p></div><div className="category-banner-symbol">{symbol}</div></div>
     <div className="library-toolbar"><label className="library-search"><Search size={17}/><input placeholder={`Search ${title.toLowerCase()}...`} value={query} onChange={e=>setQuery(e.target.value)}/></label><div className="filter-control"><SlidersHorizontal size={16}/><select value={status} onChange={e=>setStatus(e.target.value)}><option>All statuses</option>{["Completed","Reading","Watching","Playing","Want to read","On hold","Dropped","Rewatch"].map(x=><option key={x}>{x}</option>)}</select></div></div>

@@ -13,10 +13,7 @@ import BooksPage from "./pages/BooksPage";
 import MoviesPage from "./pages/MoviesPage";
 import TVShowsPage from "./pages/TVShowsPage";
 import FanfictionsPage from "./pages/FanfictionsPage";
-<<<<<<< HEAD
 import CustomCategoryPage from "./pages/CustomCategoryPage";
-=======
->>>>>>> 5d050b94f5e6a0cde40183f9a3973b17b4bc73e2
 import AddMediaPage from "./pages/AddMediaPage";
 import MediaDetailsPage from "./pages/MediaDetailsPage";
 import EditMediaPage from "./pages/EditMediaPage";
@@ -51,11 +48,7 @@ function PrivatePage({ children }) { return <RequireAuth>{children}</RequireAuth
 export default function App() {
   return <LibraryProvider><Routes>
     <Route path="/" element={<LandingPage/>}/><Route path="/login" element={<LoginPage/>}/><Route path="/signup" element={<SignupPage/>}/><Route path="/forgot-password" element={<ForgotPasswordPage/>}/><Route path="/reset-password" element={<ResetPasswordPage/>}/>
-<<<<<<< HEAD
     <Route path="/dashboard" element={<PrivatePage><DashboardPage/></PrivatePage>}/><Route path="/library" element={<PrivatePage><AllMediaPage/></PrivatePage>}/><Route path="/library/books" element={<PrivatePage><BooksPage/></PrivatePage>}/><Route path="/library/movies" element={<PrivatePage><MoviesPage/></PrivatePage>}/><Route path="/library/tv-shows" element={<PrivatePage><TVShowsPage/></PrivatePage>}/><Route path="/library/fanfictions" element={<PrivatePage><FanfictionsPage/></PrivatePage>}/><Route path="/library/category/:categoryName" element={<PrivatePage><CustomCategoryPage/></PrivatePage>}/>
-=======
-    <Route path="/dashboard" element={<PrivatePage><DashboardPage/></PrivatePage>}/><Route path="/library" element={<PrivatePage><AllMediaPage/></PrivatePage>}/><Route path="/library/books" element={<PrivatePage><BooksPage/></PrivatePage>}/><Route path="/library/movies" element={<PrivatePage><MoviesPage/></PrivatePage>}/><Route path="/library/tv-shows" element={<PrivatePage><TVShowsPage/></PrivatePage>}/><Route path="/library/fanfictions" element={<PrivatePage><FanfictionsPage/></PrivatePage>}/>
->>>>>>> 5d050b94f5e6a0cde40183f9a3973b17b4bc73e2
     <Route path="/media/add" element={<PrivatePage><AddMediaPage/></PrivatePage>}/><Route path="/media/:id/edit" element={<PrivatePage><EditMediaPage/></PrivatePage>}/><Route path="/media/:id" element={<PrivatePage><MediaDetailsPage/></PrivatePage>}/><Route path="/collections" element={<PrivatePage><CollectionsPage/></PrivatePage>}/><Route path="/collections/:id" element={<PrivatePage><CollectionDetailsPage/></PrivatePage>}/><Route path="/tracking" element={<PrivatePage><TrackingPage/></PrivatePage>}/><Route path="/statistics" element={<PrivatePage><StatisticsPage/></PrivatePage>}/><Route path="/activity" element={<PrivatePage><ActivityPage/></PrivatePage>}/>
     <Route path="/settings" element={<PrivatePage><SettingsPage/></PrivatePage>}/><Route path="/settings/profile" element={<PrivatePage><ProfileSettingsPage/></PrivatePage>}/><Route path="/settings/library" element={<PrivatePage><LibrarySettingsPage/></PrivatePage>}/><Route path="/settings/import-export" element={<PrivatePage><ImportExportPage/></PrivatePage>}/><Route path="/settings/account" element={<PrivatePage><AccountSettingsPage/></PrivatePage>}/><Route path="*" element={<NotFoundPage/>}/>
   </Routes></LibraryProvider>;
