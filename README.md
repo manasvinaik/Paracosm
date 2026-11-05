@@ -168,14 +168,6 @@ Think of it as your own little corner of the internet dedicated to everything yo
 - [Open Library API](https://openlibrary.org/developers/api) — Book metadata and covers.
 - [Comick Source API](https://comick-source-api.notaspider.dev/) — Manga search.
 
-## ✿ Project Status
-
-Paracosm is an ongoing personal project, built to make keeping track of fictional worlds a little more fun.
-
----
-
 <p align="center">
-  Made with ♡ and a love for stories.
-  <br/>
-  <sub>Paracosm · Your worlds, your little archive.</sub>
+  <sub>Made with ♡ by Manasvi Naik</sub>
 </p>
