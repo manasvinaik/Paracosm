@@ -51,21 +51,21 @@ Think of it as your own little corner of the internet dedicated to everything yo
 <table>
   <tr>
     <td align="center">
-      <img src="screenshots/Landing-1.png" width="220" alt="Landing page" />
+      <img src="Screenshots/Landing-1.png" width="220" alt="Landing page" />
       <br/><sub>Landing Page</sub>
     </td>
     <td align="center">
-      <img src="screenshots/%232%20Landing-2.png" width="220" alt="Landing page features" />
+      <img src="Screenshots/Landing-2.png" width="220" alt="Landing page features" />
       <br/><sub>Explore Paracosm</sub>
     </td>
     <td align="center">
-      <img src="screenshots/%233%20SignUp.png" width="220" alt="Sign up page" />
+      <img src="Screenshots/SignUp.png" width="220" alt="Sign up page" />
       <br/><sub>Sign Up</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="screenshots/%234%20Login.png" width="220" alt="Login page" />
+      <img src="Screenshots/Login.png" width="220" alt="Login page" />
       <br/><sub>Login</sub>
     </td>
   </tr>
