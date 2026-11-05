@@ -45,8 +45,8 @@ Think of it as your own little corner of the internet dedicated to everything yo
 
 <p align="center"><strong>01 · First impressions</strong></p>
 
-<table>
-  <tr>
+<table align="center">
+  <tr align="center">
     <td align="center">
       <img src="Screenshots/Landing-1.png" width="220" alt="Landing page" />
       <br/><sub>Landing Page</sub>
@@ -70,8 +70,8 @@ Think of it as your own little corner of the internet dedicated to everything yo
 
 <p align="center"><strong>02 · Your personal archive</strong></p>
 
-<table>
-  <tr>
+<table align="center">
+  <tr align="center">
     <td align="center">
       <img src="Screenshots/Dashboard-1.png" width="220" alt="Dashboard overview" />
       <br/><sub>Dashboard</sub>
@@ -91,7 +91,7 @@ Think of it as your own little corner of the internet dedicated to everything yo
       <br/><sub>Anime</sub>
     </td>
     <td align="center">
-      <img src="Screenshots/0MangaPage.png" width="220" alt="Manga collection" />
+      <img src="Screenshots/MangaPage.png" width="220" alt="Manga collection" />
       <br/><sub>Manga</sub>
     </td>
     <td align="center">
@@ -122,8 +122,8 @@ Think of it as your own little corner of the internet dedicated to everything yo
 
 <p align="center"><strong>04 · Your media journey</strong></p>
 
-<table>
-  <tr>
+<table align="center">
+  <tr align="center">
     <td align="center">
       <img src="Screenshots/ProgressTracker.png" width="220" alt="Progress tracker" />
       <br/><sub>Progress Tracker</sub>
@@ -162,65 +162,6 @@ Think of it as your own little corner of the internet dedicated to everything yo
 - [TMDB API](https://developer.themoviedb.org/docs) — Movie and TV metadata.
 - [Open Library API](https://openlibrary.org/developers/api) — Book metadata and covers.
 - [Comick Source API](https://comick-source-api.notaspider.dev/) — Manga search.
-
-## ♡ Installation
-
-Want to run Paracosm locally? Follow these steps.
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/manasvinaik/Paracosm.git
-cd Paracosm
-```
-
-### 2. Install dependencies
-
-```bash
-npm install
-```
-
-### 3. Configure environment variables
-
-Create a `.env` file in the project root:
-
-```env
-VITE_SUPABASE_URL=your_supabase_project_url
-VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
-```
-
-Add any other environment variables required by your local configuration.
-
-### 4. Set up Supabase
-
-- Create a project on [Supabase](https://supabase.com/).
-- Configure the database tables and authentication.
-- Add the appropriate Row Level Security policies.
-- Copy your project URL and anon/publishable key into `.env`.
-
-### 5. Start the development server
-
-```bash
-npm run dev
-```
-
-Open the local URL provided by Vite, usually:
-
-```text
-http://localhost:5173
-```
-
-### 6. Build for production
-
-```bash
-npm run build
-```
-
-To preview the production build:
-
-```bash
-npm run preview
-```
 
 ## ✿ Project Status
 
